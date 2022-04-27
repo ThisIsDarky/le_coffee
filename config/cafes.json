@@ -1,0 +1,65 @@
+[
+    {
+        "id":"EX",
+        "name":"EXPRESO",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, tenetur placeat, exercitationem voluptatibus obcaecati, ipsum aperiam sed itaque rerum illum reprehenderit! Repudiandae quos blanditiis exercitationem placeat nobis unde facere voluptatum?",
+        "precio":"$2.50",
+        "gramos":"5gr",
+        "img":"img/cafes-menu/cafe-expreso.jpg"
+    },
+
+    {
+        "id":"AM",
+        "name":"AMERICANO",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, tenetur placeat, exercitationem voluptatibus obcaecati, ipsum aperiam sed itaque rerum illum reprehenderit! Repudiandae quos blanditiis exercitationem placeat nobis unde facere voluptatum?",
+        "precio":"$2.50",
+        "gramos":"5gr",
+        "img":"img/cafes-menu/cafe-americano.jpg"
+    },
+
+    {
+        "id":"MA",
+        "name":"MACCHINATO",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, tenetur placeat, exercitationem voluptatibus obcaecati, ipsum aperiam sed itaque rerum illum reprehenderit! Repudiandae quos blanditiis exercitationem placeat nobis unde facere voluptatum?",
+        "precio":"$2.50",
+        "gramos":"5gr",
+        "img":"img/cafes-menu/cafe-mach.jpg"
+    },
+
+    {
+        "id":"EP",
+        "name":"ESPRESSO PANNA",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, tenetur placeat, exercitationem voluptatibus obcaecati, ipsum aperiam sed itaque rerum illum reprehenderit! Repudiandae quos blanditiis exercitationem placeat nobis unde facere voluptatum?",
+        "precio":"$2.50",
+        "gramos":"5gr",
+        "img":"img/cafes-menu/cafe-esspreso.jpg"
+    },
+
+    {
+        "id":"HA",
+        "name":"HAWAIANO",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, tenetur placeat, exercitationem voluptatibus obcaecati, ipsum aperiam sed itaque rerum illum reprehenderit! Repudiandae quos blanditiis exercitationem placeat nobis unde facere voluptatum?",
+        "precio":"$2.50",
+        "gramos":"5gr",
+        "img":"img/cafes-menu/HAWAII.jpg"
+    },
+
+    {
+        "id":"CL",
+        "name":"CAFÉ LATTE",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, tenetur placeat, exercitationem voluptatibus obcaecati, ipsum aperiam sed itaque rerum illum reprehenderit! Repudiandae quos blanditiis exercitationem placeat nobis unde facere voluptatum?",
+        "precio":"$2.50",
+        "gramos":"5gr",
+        "img":"img/cafes-menu/cafe-latte.jpg"
+    },
+
+    {
+        "id":"CAP",
+        "name":"CAPPUCHINO",
+        "url":"",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, tenetur placeat, exercitationem voluptatibus obcaecati, ipsum aperiam sed itaque rerum illum reprehenderit! Repudiandae quos blanditiis exercitationem placeat nobis unde facere voluptatum?",
+        "precio":"$2.50",
+        "gramos":"5gr",
+        "img":"img/cafes-menu/capuchino.jpg"
+    }
+]

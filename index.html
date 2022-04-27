@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/main.css">
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="js/jquery-3.6.0.min.js"></script>
+    <title>LE-COFFEE</title>
+</head>
+<body>
+    <div class="container-form">
+        <form >
+            <div class="form">
+                <h1>LE COFFE</h1>
+
+                <div class="grupo">
+                    <input type="text" id="name" required><span class="barra"></span>
+                    <label for="">Nombre</label>
+                </div>
+
+                <div class="grupo">
+                    <input type="password" id="password" required><span class="barra"></span>
+                    <label for="">Clave</label>
+                </div>
+
+                <div class="grupo-clave">
+                    <label for="">¿Cual es tu numero de mesa?</label>
+                   <div class="num-table" id="selection-number">
+                       0
+                   </div>
+                </div>
+                <div class="num-table-available" id="table-content">
+                
+                    
+                </div>
+                <button type="submit" id="submit">Pedir un café</button>
+            </div>
+        </form>
+    </div>
+    <script src="js/main.js?15:22"></script>
+</body>
+</html>

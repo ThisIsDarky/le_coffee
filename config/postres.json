@@ -1,0 +1,42 @@
+[
+    {
+        "id":"TI",
+        "name":"TIRAMISU",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, tenetur placeat, exercitationem voluptatibus obcaecati, ipsum aperiam sed itaque rerum illum reprehenderit! Repudiandae quos blanditiis exercitationem placeat nobis unde facere voluptatum?",
+        "precio":"$2.50",
+        "gramos":"5gr",
+        "img":"img/postres-menu/tiramisu.jpg" 
+    },
+    {
+        "id":"CHEE",
+        "name":"CHEESECAKE",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, tenetur placeat, exercitationem voluptatibus obcaecati, ipsum aperiam sed itaque rerum illum reprehenderit! Repudiandae quos blanditiis exercitationem placeat nobis unde facere voluptatum?",
+        "precio":"$2.50",
+        "gramos":"5gr",
+        "img":"img/postres-menu/cheesecake.jpg" 
+    },
+    {
+        "id":"RCAN",
+        "name":"ROL DE CANELA",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, tenetur placeat, exercitationem voluptatibus obcaecati, ipsum aperiam sed itaque rerum illum reprehenderit! Repudiandae quos blanditiis exercitationem placeat nobis unde facere voluptatum?",
+        "precio":"$2.50",
+        "gramos":"5gr",
+        "img":"img/postres-menu/rl.jpg" 
+    },
+    {
+        "id":"PAST",
+        "name":"PASTELES",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, tenetur placeat, exercitationem voluptatibus obcaecati, ipsum aperiam sed itaque rerum illum reprehenderit! Repudiandae quos blanditiis exercitationem placeat nobis unde facere voluptatum?",
+        "precio":"$2.50",
+        "gramos":"5gr",
+        "img":"img/postres-menu/torta.jpg" 
+    },
+    {
+        "id":"DON",
+        "name":"DONAS",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, tenetur placeat, exercitationem voluptatibus obcaecati, ipsum aperiam sed itaque rerum illum reprehenderit! Repudiandae quos blanditiis exercitationem placeat nobis unde facere voluptatum?",
+        "precio":"$2.50",
+        "gramos":"5gr",
+        "img":"img/postres-menu/dona.jpg" 
+    }
+]
